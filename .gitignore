@@ -1,3 +1,9 @@
+#Mac-specific
+.DS_Store
+
+#Exclude general
+Secret/
+
 # Logs
 logs
 *.log
